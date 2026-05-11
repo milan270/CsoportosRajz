@@ -20,4 +20,5 @@ while i < 12:
     turtle.right(30)
     turtle.end_fill()
     i += 1
+turtle.bgcolor("skyblue")
 turtle.done()
